@@ -1,3 +1,3 @@
 # OS161
 
-My kernelf or Operating Systems 161
+My kernel written for Harvard's Operating Systems 161
